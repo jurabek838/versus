@@ -1,0 +1,134 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.hunt_lot {
+    width: 1440px;
+    height: 550px;
+}
+
+.novbar {
+    display: flex;
+    align-items: center;
+    gap: 550px;
+    justify-content: center;
+    margin-top: -500px;
+}
+
+.repley_safe {
+    color: #FFF;
+    font-family: 'Regular400';
+    font-size: 24px;
+    font-style: normal;
+}
+
+.trick_well {
+    display: flex;
+    gap: 50px;
+    /* position: absolute; */
+    /* top: 5px; */
+    /* left: 5px; */
+}
+
+.adventure_evil {
+    color: #00D6B4;
+}
+
+.projact_shout {
+    width: 465px;
+    color: #FFF;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400; 
+    line-height: 53px;
+    position: absolute;
+    left: 30px;
+}
+
+.lauguh_kill {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    left: 450px;
+    top: 200px;
+}
+
+.lound_sner {
+    width: 137px;
+    height: 39px;
+    background: transparent;
+    border: 1px solid #00D6B4;
+    color: #00D6B4;
+    text-transform: uppercase;
+    position: absolute;
+    top: 130px;
+    left: 190px;
+    transition: .5s;
+}
+
+.lound_sner:hover {
+    box-shadow: 0px 0px 10px 0px #00D6B4;
+    transition: .5s;
+}
+
+.alive_among{
+    /* position: absolute; */
+    background-color: #222;
+    width: 1440px;
+    height: 1000px;
+    margin-left: 40px;
+
+}
+
+.section_title{
+    color: #FFF;
+    text-align: center;
+    font-family: 'Regular400';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 430px;
+}
+
+.gredey_penet{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.foter_one{
+    color: #C2C2C2;
+    text-align: center;
+    line-height: 22px;
+    text-transform: uppercase;
+}
+
+.foter_two{
+    color: #999;
+    text-align: center;
+    font-family: 'Regular400';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.foter{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 100px;
+}
